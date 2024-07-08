@@ -122,11 +122,10 @@ body {
 .square {
   width: 100px;
   height: 100px;
-  border: 2px solid #ffffff;
+  border: 2px solid #eee;
   border-radius: 5px;
   display: grid;
   place-items: center;
   cursor: pointer;
   font-size: 48px;
 }
-
